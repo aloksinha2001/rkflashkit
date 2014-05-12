@@ -1,4 +1,5 @@
 rkflashkit
+===
 
 
 rkflashkit is an open sourced (GPL v2) toolkit for flashing Linux kernel images (Picuntu) to rk3066/rk3188 based devices. It's programmed with python and gtk2. The kernel program is adapted from Galland's rkflashtool_rk3066 which is in turn based on cyteen's rk3066-rkflashtool.
